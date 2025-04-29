@@ -1,0 +1,17 @@
+{
+  "name": "clase28_04_2025",
+  "version": "1.0.0",
+  "description": "un proyecto de node con http de manera nativa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "server",
+    "http",
+    "local"
+  ],
+  "author": "Mauco123",
+  "license": "ISC"
+}
